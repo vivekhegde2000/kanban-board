@@ -1,0 +1,58 @@
+:root {
+  /* font-size */
+  --font-size-10: 10px;
+  --font-size-12: 12px;
+  --font-size-14: 14px;
+  --font-size-16: 16px;
+  --font-size-18: 18px;
+  --font-size-20: 20px;
+  --font-size-22: 22px;
+  --font-size-24: 24px;
+  --font-size-28: 28px;
+  --font-size-32: 32px;
+  --font-size-36: 36px;
+  --font-size-40: 40px;
+  --font-size-48: 48px;
+  --font-size-64: 64px;
+
+  /* font-styles */
+
+  --font-style-normal: normal;
+  --font-style-italic: italic;
+
+  /* font-weight */
+  --font-weight-400: 400;
+  --font-weight-500: 500;
+  --font-weight-600: 600;
+  --font-weight-700: 700;
+  --font-weight-900: 900;
+
+  --color-body-bg: #f1f1f1;
+
+  /* Kanban Board Colors */
+  --color-kanban-column-bg: #f5f5f5;
+  --color-kanban-card-bg: #ffffff;
+  --color-kanban-card-shadow: rgba(0, 0, 0, 0.08);
+  --color-kanban-card-border: #e8e8e8;
+  --color-kanban-header-text: #333333;
+  --color-kanban-description-text: #888888;
+  --color-kanban-date-border: #e0e0e0;
+  --color-kanban-progress-text: #999999;
+  --color-kanban-column-hover-bg: #ebebeb;
+
+  /* Kanban Tag Colors - Default set */
+  --color-kanban-tag-research: #1b5e20;
+  --color-kanban-tag-research-bg: #e8f5e9;
+  --color-kanban-tag-planning: #0d47a1;
+  --color-kanban-tag-planning-bg: #e3f2fd;
+  --color-kanban-tag-design: #e65100;
+  --color-kanban-tag-design-bg: #fff3e0;
+  --color-kanban-tag-development: #4a148c;
+  --color-kanban-tag-development-bg: #f3e5f5;
+  --color-kanban-tag-testing: #006064;
+  --color-kanban-tag-testing-bg: #e0f7fa;
+  --color-kanban-tag-review: #bf360c;
+  --color-kanban-tag-review-bg: #fbe9e7;
+  --color-kanban-tag-default: #424242;
+  --color-kanban-tag-default-bg: #f5f5f5;
+}
